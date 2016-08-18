@@ -1,0 +1,14 @@
+name: Sarah and the Kitchen Sink
+layout_spectrum: 0.5706436644540412
+typography_spectrum: 0.45847892323045447
+color:
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+  brandStrength: 0.6459260343939075
+  lightness: 0.19290902142894562
+  saturation: 0.2879538681852657
+  rhythmicContrast: 0.3539765226903142
